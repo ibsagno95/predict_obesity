@@ -1,54 +1,60 @@
-2025-03-27 15:01:13,847 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 15:19:39,241 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 15:49:19,196 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 16:45:37,742 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:39:57,903 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:41:16,661 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:41:58,903 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:43:11,678 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:44:25,885 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:52:52,726 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 17:52:52,737 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 17:52:52,766 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:00:12,732 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:00:12,732 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:00:12,786 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:00:13,014 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:00:13,014 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:00:13,029 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:07:29,825 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:07:29,827 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:07:29,833 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:08:48,827 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:08:48,837 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:08:48,845 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:09:52,499 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:09:52,501 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:09:52,508 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:10:43,807 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:10:43,807 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:10:43,820 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:11:27,955 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:11:27,956 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:11:27,968 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:11:40,027 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:11:40,030 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:11:40,040 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:13:04,667 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:13:04,669 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:13:04,677 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:13:41,724 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:13:41,738 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:13:41,746 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:13:47,671 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:13:47,673 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:13:47,681 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:13:54,371 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:13:54,373 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:13:54,380 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:16:51,392 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:16:51,392 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:16:51,405 - INFO - Transformation des données réussie. DataFrame final créé.
-2025-03-27 18:16:51,510 - INFO - Le fichier  a été chargé avec succès.
-2025-03-27 18:16:51,510 - INFO - Colonnes sélectionnées pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
-2025-03-27 18:16:51,527 - INFO - Transformation des données réussie. DataFrame final créé.
+2025-03-27 15:01:13,847 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 15:19:39,241 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 15:49:19,196 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 16:45:37,742 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:39:57,903 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:41:16,661 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:41:58,903 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:43:11,678 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:44:25,885 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:52:52,726 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 17:52:52,737 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 17:52:52,766 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:00:12,732 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:00:12,732 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:00:12,786 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:00:13,014 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:00:13,014 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:00:13,029 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:07:29,825 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:07:29,827 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:07:29,833 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:08:48,827 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:08:48,837 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:08:48,845 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:09:52,499 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:09:52,501 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:09:52,508 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:10:43,807 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:10:43,807 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:10:43,820 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:11:27,955 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:11:27,956 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:11:27,968 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:11:40,027 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:11:40,030 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:11:40,040 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:13:04,667 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:13:04,669 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:13:04,677 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:13:41,724 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:13:41,738 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:13:41,746 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:13:47,671 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:13:47,673 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:13:47,681 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:13:54,371 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:13:54,373 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:13:54,380 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:16:51,392 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:16:51,392 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:16:51,405 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-27 18:16:51,510 - INFO - Le fichier  a ï¿½tï¿½ chargï¿½ avec succï¿½s.
+2025-03-27 18:16:51,510 - INFO - Colonnes sï¿½lectionnï¿½es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-27 18:16:51,527 - INFO - Transformation des donnï¿½es rï¿½ussie. DataFrame final crï¿½ï¿½.
+2025-03-28 12:40:21,997 - INFO - Le fichier  a Ã©tÃ© chargÃ© avec succÃ¨s.
+2025-03-28 12:40:22,003 - INFO - Colonnes sÃ©lectionnÃ©es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-28 12:40:22,052 - INFO - Transformation des donnÃ©es rÃ©ussie. DataFrame final crÃ©Ã©.
+2025-03-28 12:40:22,530 - INFO - Le fichier  a Ã©tÃ© chargÃ© avec succÃ¨s.
+2025-03-28 12:40:22,531 - INFO - Colonnes sÃ©lectionnÃ©es pour l'encodage One Hot: ['Gender', 'family_history_with_overweight', 'FAVC', 'CAEC', 'SMOKE', 'SCC', 'CALC', 'MTRANS']
+2025-03-28 12:40:22,537 - INFO - Transformation des donnÃ©es rÃ©ussie. DataFrame final crÃ©Ã©.
