@@ -12,10 +12,10 @@ COPY app_st.py .
 COPY encodage.pkl .
 COPY logistic_regression_model.pkl .
 COPY inference.py .
-COPY requirement.txt .
+COPY requirements.txt .
 
 ## Installer les dépendances
-RUN pip install --no-cache-dir -r requirement.txt
+RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install streamlit
 
 #exposer le port utilisé par streamlit
