@@ -3,10 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from inference import prediction
-import subprocess
-import sys
-
-subprocess.check_call([sys.executable, "-m", "pip", "install", "scikit-learn"])
 
 # Paramètre couleur de fond
 
